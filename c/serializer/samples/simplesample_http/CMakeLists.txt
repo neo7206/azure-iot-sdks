@@ -1,0 +1,21 @@
+#this is CMakeLists.txt for simplesample_http sample
+set(simplesample_http_c_files
+simplesample_http.c
+./windows/main.c
+)
+
+set(simplesample_http_h_files
+simplesample_http.h
+)
+
+IF(WIN32)
+	#windows needs this define
+	add_definitions(-D_CRT_SECURE_NO_WARNINGS)
+ENDIF(WIN32)
+
+include_directories(. ${COMMON_INC_FOLDER} ${IOTHUB_CLIENT_INC_FOLDER})
+
+add_executable(simplesample_http ${simplesample_http_c_files} ${simplesample_http_h_files})
+#TODO: debug folder is hard coded and horrible. Should be something like configuration
+#TODO: this should be a global function "install_proton" or something
+target_link_libraries(simplesample_http serializer iothub_client iothub_client_http_transport common Winhttp.lib)
