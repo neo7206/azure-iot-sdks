@@ -39,7 +39,3 @@ micromock_unittests SHARED ${micromock_unittests_cpp_files} ${micromock_unittest
 )
 
 target_link_libraries(micromock_unittests micromock ctest)
-
-
-
-add_test(NAME micromock_unittests COMMAND micromock_unittests)

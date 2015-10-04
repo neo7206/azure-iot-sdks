@@ -56,6 +56,7 @@ set(source_h_files
 #these are the include folders
 #the following "set" statetement exports across the project a global variable called COMMON_INC_FOLDER that expands to whatever needs to included when using COMMON library
 set(COMMON_INC_FOLDER ${CMAKE_CURRENT_LIST_DIR}/inc CACHE INTERNAL "this is what needs to be included if using common lib" FORCE)
+set(COMMON_SRC_FOLDER ${CMAKE_CURRENT_LIST_DIR}/src CACHE INTERNAL "this is what needs to be included when doing include sources" FORCE)
 include_directories(${COMMON_INC_FOLDER})
 
 IF(WIN32)
@@ -65,3 +66,5 @@ ENDIF(WIN32)
 
 #this is the product (a library)
 add_library(common ${source_c_files} ${source_h_files})
+
+add_subdirectory(tests)
