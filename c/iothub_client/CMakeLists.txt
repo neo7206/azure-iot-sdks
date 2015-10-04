@@ -96,3 +96,4 @@ iothub_client ${iothub_client_c_files} ${iothub_client_h_files}
 )
 
 add_subdirectory(samples)
+add_subdirectory(tests)

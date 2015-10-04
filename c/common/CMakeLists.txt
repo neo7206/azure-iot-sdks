@@ -68,3 +68,4 @@ ENDIF(WIN32)
 add_library(common ${source_c_files} ${source_h_files})
 
 add_subdirectory(tests)
+add_subdirectory(testtools)
