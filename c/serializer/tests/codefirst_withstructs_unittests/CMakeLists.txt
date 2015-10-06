@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for codefirst_withstructs_unittests.cpp
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(codefirst_withstructs_unittests_cpp_files
 codefirst_withstructs_unittests.cpp

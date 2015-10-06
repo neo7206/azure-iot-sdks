@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for schema_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(schema_unittests_cpp_files
 schema_unittests.cpp

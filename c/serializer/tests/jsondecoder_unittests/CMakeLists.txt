@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for jsondecoder_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(jsondecoder_unittests_cpp_files
 jsondecoder_unittests.cpp

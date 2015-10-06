@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for agentmacros_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(agentmacros_unittests_cpp_files
 agentmacros_unittests.cpp

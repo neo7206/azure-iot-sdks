@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for doublylinkedlist_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(doublylinkedlist_unittests_cpp_files
 doublylinkedlist_unittests.cpp

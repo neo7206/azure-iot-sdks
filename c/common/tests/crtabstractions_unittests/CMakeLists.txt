@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for crt_abstractions_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(crtabstractions_unittests_cpp_files
 crtabstractions_unittests.cpp

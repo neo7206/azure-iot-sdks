@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 #this is unittests for ctest
 
 set(ctest_unittests_c_files

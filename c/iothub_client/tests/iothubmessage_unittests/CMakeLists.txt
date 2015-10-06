@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for iothubmessage_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(iothubmessage_unittests_cpp_files
 iothubmessage_unittests.cpp

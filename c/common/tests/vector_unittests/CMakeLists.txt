@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for vector_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(vector_unittests_cpp_files
 vector_unittests.cpp

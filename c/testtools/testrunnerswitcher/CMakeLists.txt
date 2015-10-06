@@ -1,5 +1,5 @@
 #this is CMakeLists for testrunerswitcher. It only defines a global include 
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 #these are the include folders
 #the following "set" statetement exports across the project a global variable called TESTRUNNERSWITCHER_INC_FOLDER that expands to whatever needs to included when using tesrtrunnerswitcher library

@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for datamarshaller_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(datamarshaller_unittests_cpp_files
 datamarshaller_unittests.cpp

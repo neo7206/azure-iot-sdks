@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 #this is CMakeLists for iothub_client
 
 set(iothub_client_all_transport_c_files

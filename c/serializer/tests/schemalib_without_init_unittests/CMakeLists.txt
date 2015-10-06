@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for schemalib_without_init_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(schemalib_without_init_unittests_cpp_files
 schemalib_without_init_unittests.cpp

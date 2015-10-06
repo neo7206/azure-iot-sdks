@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for urlencode_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(urlencode_unittests_cpp_files
 urlencode_unittests.cpp

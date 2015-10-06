@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for version_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(version_unittests_cpp_files
 version_unittests.cpp

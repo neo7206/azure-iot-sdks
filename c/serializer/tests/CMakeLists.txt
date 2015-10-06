@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 #this is CMakeLists for serializer e2e folder
 add_subdirectory(agentmacros_unittests)
 add_subdirectory(agenttypesystem_unittests)

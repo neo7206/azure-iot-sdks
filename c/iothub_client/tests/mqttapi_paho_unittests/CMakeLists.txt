@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for mqttapi_paho_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(mqttapi_paho_unittests_cpp_files
 mqttapi_paho_unittests.cpp

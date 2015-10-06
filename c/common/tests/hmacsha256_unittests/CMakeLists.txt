@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for hmacsha256_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(hmacsha256_unittests_cpp_files
 hmacsha256_unittests.cpp

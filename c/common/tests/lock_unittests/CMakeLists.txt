@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for lock_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(lock_unittests_cpp_files
 lock_unittests.cpp

@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for httpapiexsas_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(httpapiexsas_unittests_cpp_files
 httpapiexsas_unittests.cpp

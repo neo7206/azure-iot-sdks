@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for iotdevice_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(iotdevice_unittests_cpp_files
 iotdevice_unittests.cpp

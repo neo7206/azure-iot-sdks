@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for iothubtransportmqtt_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(iothubtransportmqtt_unittests_cpp_files
 iothubtransportmqtt_unittests.cpp

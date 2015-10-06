@@ -1,5 +1,5 @@
 #this is CMakeLists for micromock
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(micromock_cpp_files
 ./src/micromockcharstararenullterminatedstrings.cpp

@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for httpapiex_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(httpapiex_unittests_cpp_files
 httpapiex_unittests.cpp

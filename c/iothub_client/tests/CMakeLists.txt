@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 #this is CMakeLists for iothub_client tests folder
 
 add_subdirectory(iothubclient_e2etests)

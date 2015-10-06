@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for schemaserializer_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(schemaserializer_unittests_cpp_files
 schemaserializer_unittests.cpp

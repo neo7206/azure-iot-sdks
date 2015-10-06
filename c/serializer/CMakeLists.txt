@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 #this is CMakeLists for serializer
 
 set(serializer_c_files

@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for commanddecoder_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(commanddecoder_unittests_cpp_files
 commanddecoder_unittests.cpp

@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for strings_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(strings_unittests_cpp_files
 strings_unittests.cpp

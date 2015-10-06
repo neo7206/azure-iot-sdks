@@ -1,5 +1,5 @@
 #this is CMakeLists for micromock unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(micromock_unittests_cpp_files
 stdafx.cpp

@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for string_tokenizer_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(string_tokenizer_unittests_cpp_files
 string_tokenizer_unittests.cpp

@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for buffer_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(buffer_unittests_cpp_files
 buffer_unittests.cpp

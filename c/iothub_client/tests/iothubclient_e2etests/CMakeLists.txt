@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for iothubclient_e2etests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(iothubclient_e2etests_cpp_files
 iothubclient_e2etests.cpp

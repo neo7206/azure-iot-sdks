@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for datapublisher_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(datapublisher_unittests_cpp_files
 datapublisher_unittests.cpp

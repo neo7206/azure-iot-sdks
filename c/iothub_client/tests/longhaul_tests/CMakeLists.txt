@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for longhaul_e2etests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(longhaul_e2etests_cpp_files
 longhaul_tests.cpp

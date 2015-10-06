@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for gballoc_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(gballoc_unittests_cpp_files
 gballoc_unittests.cpp

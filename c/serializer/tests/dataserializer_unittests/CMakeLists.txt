@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for dataserializer_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(dataserializer_unittests_cpp_files
 dataserializer_unittests.cpp

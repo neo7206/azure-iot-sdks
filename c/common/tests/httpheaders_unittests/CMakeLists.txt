@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for httpheaders_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(httpheaders_unittests_cpp_files
 httpheaders_unittests.cpp

@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for sastoken_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(sastoken_unittests_cpp_files
 sastoken_unittests.cpp

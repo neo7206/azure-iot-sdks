@@ -1,5 +1,5 @@
 #this is CMakeLists.txt for base64_unittests
-cmake_minimum_required(VERSION 3.2)
+cmake_minimum_required(VERSION 3.0)
 
 set(base64_unittests_cpp_files
 base64_unittests.cpp
