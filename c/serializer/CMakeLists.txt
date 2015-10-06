@@ -51,3 +51,4 @@ serializer ${serializer_c_files} ${serializer_h_files}
 )
 
 add_subdirectory(samples)
+add_subdirectory(tests)
