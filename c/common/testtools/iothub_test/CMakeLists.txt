@@ -1,3 +1,6 @@
+#Copyright (c) Microsoft. All rights reserved.
+#Licensed under the MIT license. See LICENSE file in the project root for full license information.
+
 #this is CMakeLists for iothub_test
 set(iothub_test_c_files
 ./src/iothubtest.c

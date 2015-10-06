@@ -1,3 +1,6 @@
+#Copyright (c) Microsoft. All rights reserved.
+#Licensed under the MIT license. See LICENSE file in the project root for full license information.
+
 #this is CMakeLists.txt for simplesample_mqtt sample
 set(simplesample_mqtt_c_files
 simplesample_mqtt.c
