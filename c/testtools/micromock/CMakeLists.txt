@@ -2,7 +2,6 @@
 cmake_minimum_required(VERSION 3.2)
 
 set(micromock_cpp_files
-./src/stdafx.cpp
 ./src/micromockcharstararenullterminatedstrings.cpp
 ./src/micromockexception.cpp
 ./src/micromocktestmutex.cpp
